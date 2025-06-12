@@ -1,0 +1,5 @@
+asyncio>=3.4.3
+python_telegram_bot>=22.1
+telethon>=1.40.0
+
+#pip install -r requirements.txt

@@ -1,3 +1,2 @@
 import main
-
-main.main()
+main.main()  # или вызов нужных функций из модуля
